@@ -1,0 +1,298 @@
+[{
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classifier_id": "default",
+                    "name": "default",
+                    "classes": [
+                        {
+                            "class": "carton",
+                            "score": 0.585,
+                            "type_hierarchy": "/box/carton"
+                        },
+                        {
+                            "class": "box",
+                            "score": 0.69
+                        },
+                        {
+                            "class": "bandbox",
+                            "score": 0.556,
+                            "type_hierarchy": "/box/bandbox"
+                        },
+                        {
+                            "class": "envelope",
+                            "score": 0.524
+                        },
+                        {
+                            "class": "first-aid kit",
+                            "score": 0.503,
+                            "type_hierarchy": "/kit of things/first-aid kit"
+                        },
+                        {
+                            "class": "kit of things",
+                            "score": 0.503
+                        },
+                        {
+                            "class": "checkout counter",
+                            "score": 0.5,
+                            "type_hierarchy": "/furniture/table/checkout counter"
+                        },
+                        {
+                            "class": "table",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "furniture",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "equipment",
+                            "score": 0.6
+                        },
+                        {
+                            "class": "bag",
+                            "score": 0.591
+                        },
+                        {
+                            "class": "indoors",
+                            "score": 0.596
+                        },
+                        {
+                            "class": "appliance",
+                            "score": 0.591
+                        },
+                        {
+                            "class": "jade green color",
+                            "score": 0.895
+                        },
+                        {
+                            "class": "blue color",
+                            "score": 0.65
+                        }
+                    ]
+                }
+            ],
+            "image": "tn_2.png"
+        }
+    ],
+    "images_processed": 1,
+    "custom_classes": 0
+},
+{
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classifier_id": "default",
+                    "name": "default",
+                    "classes": [
+                        {
+                            "class": "celery",
+                            "score": 0.655,
+                            "type_hierarchy": "/plant/vegetable/celery"
+                        },
+                        {
+                            "class": "vegetable",
+                            "score": 0.656
+                        },
+                        {
+                            "class": "plant",
+                            "score": 0.656
+                        },
+                        {
+                            "class": "checkout counter",
+                            "score": 0.517,
+                            "type_hierarchy": "/furniture/table/checkout counter"
+                        },
+                        {
+                            "class": "table",
+                            "score": 0.518
+                        },
+                        {
+                            "class": "furniture",
+                            "score": 0.52
+                        },
+                        {
+                            "class": "soap dish",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "cannelloni",
+                            "score": 0.5,
+                            "type_hierarchy": "/food/nutrition/dish/pasta/cannelloni"
+                        },
+                        {
+                            "class": "pasta",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "dish",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "nutrition",
+                            "score": 0.506
+                        },
+                        {
+                            "class": "food",
+                            "score": 0.506
+                        },
+                        {
+                            "class": "sage green color",
+                            "score": 0.862
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.81
+                        }
+                    ]
+                }
+            ],
+            "image": "tn_3.png"
+        }
+    ],
+    "images_processed": 1,
+    "custom_classes": 0
+},
+{
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classifier_id": "default",
+                    "name": "default",
+                    "classes": [
+                        {
+                            "class": "finger food",
+                            "score": 0.581,
+                            "type_hierarchy": "/food/nutrition/finger food"
+                        },
+                        {
+                            "class": "nutrition",
+                            "score": 0.594
+                        },
+                        {
+                            "class": "food",
+                            "score": 0.657
+                        },
+                        {
+                            "class": "player",
+                            "score": 0.546,
+                            "type_hierarchy": "/person/player"
+                        },
+                        {
+                            "class": "person",
+                            "score": 0.546
+                        },
+                        {
+                            "class": "android",
+                            "score": 0.506
+                        },
+                        {
+                            "class": "vitamin pill",
+                            "score": 0.504,
+                            "type_hierarchy": "/food/diet (food)/vitamin pill"
+                        },
+                        {
+                            "class": "diet (food)",
+                            "score": 0.507
+                        },
+                        {
+                            "class": "card player",
+                            "score": 0.503,
+                            "type_hierarchy": "/person/contestant/player/card player"
+                        },
+                        {
+                            "class": "contestant",
+                            "score": 0.503
+                        },
+                        {
+                            "class": "Emmenthal",
+                            "score": 0.5,
+                            "type_hierarchy": "/food/food product/dairy product/cheese/Emmenthal"
+                        },
+                        {
+                            "class": "cheese",
+                            "score": 0.502
+                        },
+                        {
+                            "class": "dairy product",
+                            "score": 0.506
+                        },
+                        {
+                            "class": "food product",
+                            "score": 0.507
+                        },
+                        {
+                            "class": "chocolate color",
+                            "score": 0.797
+                        },
+                        {
+                            "class": "jade green color",
+                            "score": 0.502
+                        }
+                    ]
+                }
+            ],
+            "image": "tn_4.png"
+        }
+    ],
+    "images_processed": 1,
+    "custom_classes": 0
+},
+{
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classifier_id": "default",
+                    "name": "default",
+                    "classes": [
+                        {
+                            "class": "carton",
+                            "score": 0.619,
+                            "type_hierarchy": "/box/carton"
+                        },
+                        {
+                            "class": "box",
+                            "score": 0.719
+                        },
+                        {
+                            "class": "bandbox",
+                            "score": 0.558,
+                            "type_hierarchy": "/box/bandbox"
+                        },
+                        {
+                            "class": "envelope",
+                            "score": 0.543
+                        },
+                        {
+                            "class": "packaging",
+                            "score": 0.508
+                        },
+                        {
+                            "class": "package",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "equipment",
+                            "score": 0.6
+                        },
+                        {
+                            "class": "jade green color",
+                            "score": 0.871
+                        },
+                        {
+                            "class": "blue color",
+                            "score": 0.666
+                        }
+                    ]
+                }
+            ],
+            "image": "tn_1.png"
+        }
+    ],
+    "images_processed": 1,
+    "custom_classes": 0
+}]
